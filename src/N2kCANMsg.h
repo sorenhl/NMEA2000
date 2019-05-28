@@ -23,7 +23,7 @@ OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 #ifndef _tN2kCANMsg_H_
 #define _tN2kCANMsg_H_
-#include <N2kMsg.h>
+#include "N2kMsg.h"
 
 class tN2kCANMsg
 {

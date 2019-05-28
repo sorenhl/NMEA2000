@@ -25,7 +25,7 @@
 #ifndef _Seasmart_h_
 #define _Seasmart_h_
 
-#include <N2kMsg.h>
+#include "N2kMsg.h"
 
 /**
  * Converts a tN2kMsg into a $PCDIN NMEA sentence, following the Seasmart
