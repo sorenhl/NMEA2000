@@ -21,7 +21,7 @@ CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFT
 OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 */
-
+#include "Arduino.h"
 #include <stdlib.h>
 #include "N2kDeviceList.h"
 

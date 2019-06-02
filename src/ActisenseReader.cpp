@@ -25,6 +25,7 @@ This is class for reading Actisense format messages from given stream.
 */
 #include "ActisenseReader.h"
 #include <string.h>
+#include "Arduino.h"
 
 //*****************************************************************************
 tActisenseReader::tActisenseReader() {

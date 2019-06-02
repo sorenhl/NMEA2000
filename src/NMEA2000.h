@@ -43,7 +43,7 @@ address anymore. See also method ReadResetAddressChanged().
 
 #ifndef _NMEA2000_H_
 #define _NMEA2000_H_
-
+#include "Arduino.h"
 #include "NMEA2000_CompilerDefns.h"
 #include "N2kStream.h"
 #include "N2kMsg.h"
